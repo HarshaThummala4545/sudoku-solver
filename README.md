@@ -16,7 +16,7 @@ An interactive Sudoku Solver built using HTML, CSS, JavaScript and the Backtrack
 
 ## 🎯 Solved Puzzle
 
-![Solved](assets/solved.png)
+![Solved](preview1.png)
 
 ## 🛠️ Technologies
 
